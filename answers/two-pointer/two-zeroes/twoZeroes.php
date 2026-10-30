@@ -15,5 +15,5 @@ class Solution {
                 $nums[] = 0;
             }
        }
-    } //i can do the comparing each pointer and shifting the value until it goes to the end
+    } //i can do the comparing each pointer and shifting the value until it goes to the end, 
 }
